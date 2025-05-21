@@ -1,0 +1,20 @@
+# NVIDIA-SMI 535.183.01           
+# Driver Version: 535.183.01   
+# CUDA Version: 12.2  
+
+pandas==2.2.3
+numpy==1.24.0
+torch==2.6.0
+tqdm==4.67.1
+sentence-transformers==3.4.1
+scikit-learn==1.6.1
+faiss==1.7.2
+transformers==4.50.0.dev0
+peft==0.14.0
+datasets==3.3.2
+accelerate==1.4.0
+trl==0.15.2
+langchain==0.3.20
+langchain-community==0.3.19
+streamlit==1.43.2
+apache-airflow==2.10.5
