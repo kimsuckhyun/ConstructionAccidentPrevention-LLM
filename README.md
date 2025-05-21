@@ -43,16 +43,16 @@ pip install git+https://github.com/unsloth/unsloth.git
 
 ```bash
 # QA RAG LoRA 모델 (Qwen2.5-72B 기반)
-python /project/ahnailab/jys0207/CP/aa/qa_rag_lora_qwen2.5-72b.py
+python ./qa_rag_lora_qwen2.5-72b.py
 
 # Gemma3 LoRA 모델 (이미 있을 경우 스킵 가능)
-# python /project/ahnailab/jys0207/CP/aa/rag_lora_gemma3-27b.py
+# python ./rag_lora_gemma3-27b.py
 
 # 텍스트 중요도 추출
-python /project/ahnailab/jys0207/CP/aa/importance_text_extraction.py
+python ./importance_text_extraction.py
 
 # 앙상블 모델 실행
-python /project/ahnailab/jys0207/CP/aa/emsemble.py
+python ./emsemble.py
 ```
 
 ### 3. 최종 결과 파일
