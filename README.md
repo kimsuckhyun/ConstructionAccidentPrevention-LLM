@@ -159,17 +159,6 @@ python /project/ahnailab/jys0207/CP/aa/emsemble.py
 - [Unsloth 라이브러리](https://github.com/unsloth/unsloth)
 
 
-## 👥 팀 구성
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/username/repo/main/assets/team_member1.png" width="100"/><br/>홍길동<br/>모델링 & 앙상블</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/username/repo/main/assets/team_member2.png" width="100"/><br/>김철수<br/>데이터 & RAG</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/username/repo/main/assets/team_member3.png" width="100"/><br/>이영희<br/>서빙 & UI</td>
-    </tr>
-  </table>
-</div>
 
 ## 📄 라이센스
 
